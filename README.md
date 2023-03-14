@@ -12,6 +12,10 @@ O hardware utilizado neste projeto é o Arduino UNO, que vem com um módulo ESP 
 Com este sistema de monitoramento remoto, é possível ter um acompanhamento em tempo real do funcionamento de um sistema off-grid, incluindo a identificação de eventuais falhas à distância, o que facilita a manutenção e o reparo.
 
 O Step Down foi utilizado pois a tensão de carga neste caso pode chegar a 14v.
+
+[Projeto Funcionando](https://thingspeak.com/channels/1887175)
+
+
 ![UNO R3 + ESP 8266](https://github.com/SantiagoAcevedo/dc_cloud/blob/main/imgonline-com-ua-dexifwdxaiXxSck8o.jpg?raw=true)
 ## Material Utilizado
 
